@@ -1,1 +1,3 @@
-# david_sondak_playground
+# David's Playground
+
+A place to play with `git`!
